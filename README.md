@@ -1,6 +1,6 @@
 # Pytorch-on-jetson-nano
 ## How to install Pytorch on Nividia Jetson Nano
-*install the dependencies (if not already onboard)
+* install the dependencies (if not already onboard)
 sudo apt-get install python3-pip libjpeg-dev libopenblas-dev libopenmpi-dev libomp-dev
 $ sudo -H pip3 install future
 $ sudo pip3 install -U --user wheel mock pillow
