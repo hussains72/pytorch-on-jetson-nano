@@ -9,10 +9,10 @@
 > ``` $ sudo -H pip3 install --upgrade setuptools ```  
 > ``` $ sudo -H pip3 install Cython ```  
 ## install gdown to download from Google drive  
-> ``` $ sudo -H pip3 install gdown
- download the wheel
-$ gdown https://drive.google.com/uc?id=12UiREE6-o3BthhpjQxCKLtRg3u4ssPqb
- install PyTorch 1.9.0
-$ sudo -H pip3 install torch-1.9.0a0+gitd69c22d-cp36-cp36m-linux_aarch64.whl
- clean up
-$ rm torch-1.9.0a0+gitd69c22d-cp36-cp36m-linux_aarch64.whl
+> ``` $ sudo -H pip3 install gdown  
+## download the wheel  
+> ``` $ gdown https://drive.google.com/uc?id=12UiREE6-o3BthhpjQxCKLtRg3u4ssPqb ```  
+## install PyTorch 1.9.0  
+> ```$ sudo -H pip3 install torch-1.9.0a0+gitd69c22d-cp36-cp36m-linux_aarch64.whl ```  
+## clean up  
+> ```$ rm torch-1.9.0a0+gitd69c22d-cp36-cp36m-linux_aarch64.whl ```
