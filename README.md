@@ -6,8 +6,8 @@
 > ``` $ sudo pip3 install -U --user wheel mock pillow ```  
 > ``` $ sudo -H pip3 install testresources ```
 ## upgrade setuptools 47.1.1 -> 57.4.0'  
-> ``` $ sudo -H pip3 install --upgrade setuptools
-```  $ sudo -H pip3 install Cython
+> ``` $ sudo -H pip3 install --upgrade setuptools ```
+```  $ sudo -H pip3 install Cython ```
  install gdown to download from Google drive
 $ sudo -H pip3 install gdown
  download the wheel
