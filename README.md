@@ -8,7 +8,7 @@
 ## upgrade setuptools 47.1.1 -> 57.4.0'  
 > ``` $ sudo -H pip3 install --upgrade setuptools ```  
 > ``` $ sudo -H pip3 install Cython ```  
-## install gdown to download from Google drive  
+## install gdown to download from Google drive    
 > ``` $ sudo -H pip3 install gdown  
 ## download the wheel  
 > ``` $ gdown https://drive.google.com/uc?id=12UiREE6-o3BthhpjQxCKLtRg3u4ssPqb ```  
