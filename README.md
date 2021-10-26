@@ -16,7 +16,7 @@
 > ```$ sudo -H pip3 install torch-1.9.0a0+gitd69c22d-cp36-cp36m-linux_aarch64.whl ```  
 ## Error     
  import torch as tr  
- Illegal instruction (core dumped)  
+Illegal instruction (core dumped)  
  Solution [https://forums.developer.nvidia.com/t/illegal-instruction-core-dumped/165488]
 
 ## Clean up  
