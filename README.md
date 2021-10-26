@@ -10,7 +10,7 @@
 > ``` $ sudo -H pip3 install Cython ```  
 ## Install gdown to download from Google drive    
 > ``` $ sudo -H pip3 install gdown ```   
-## Download the wheel  
+## Download the wheel   
 > ``` $ gdown https://drive.google.com/uc?id=12UiREE6-o3BthhpjQxCKLtRg3u4ssPqb ```  
 ## Install PyTorch 1.9.0  
 > ```$ sudo -H pip3 install torch-1.9.0a0+gitd69c22d-cp36-cp36m-linux_aarch64.whl ```  
